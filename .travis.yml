@@ -77,3 +77,4 @@ script:
   - sleep 1
   - t/travis-ci-test-message.bash
 
+
